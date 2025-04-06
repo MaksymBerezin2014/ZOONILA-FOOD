@@ -90,25 +90,25 @@ a {
     position: relative;
     transform: scale(1.15);
     transition: 1s;
-    box-shadow: 2px 0 5px 10px blueviolet;
+    box-shadow: 2px 0 5px 10px blue;
 }
 
 .parrot:hover {
     position: relative;
     transform: scale(1.15);
     transition: 1s;
-    box-shadow: 2px 0 5px 10px blueviolet;
+    box-shadow: 2px 0 5px 10px blue;
 }
 
 .dog:hover {
     position: relative;
     transform: scale(1.15);
     transition: 1s;
-    box-shadow: 2px 0 5px 10px blueviolet;
+    box-shadow: 2px 0 5px 10px blue;
 }
 
 .cat {
-    background-color: blue;
+    background-color: blueviolet;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
@@ -117,7 +117,7 @@ a {
 }
 
 .parrot {
-    background-color: blue;
+    background-color: blueviolet;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
@@ -126,7 +126,7 @@ a {
 }
 
 .dog {
-    background-color: blue;
+    background-color: blueviolet;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
