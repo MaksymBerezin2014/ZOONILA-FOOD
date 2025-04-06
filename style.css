@@ -1,0 +1,157 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.info h2{
+    text-align: left;
+}
+
+.info {
+    font-size: 20px;
+}
+
+header img {
+    margin-left: 42%;
+}
+
+header a {
+    margin-left: 110px;
+    font-size: 10px;
+}
+
+.catalog {
+    display: flex;
+    justify-content: space-around;
+}
+
+.social {
+    margin-left: 80%;
+}
+
+.where p {
+    text-align: center;
+}
+
+.o {
+    display: flex;
+    justify-content: center;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    font-size: 25px;
+}
+
+.m {
+    display: flex;
+    justify-content: center;
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    font-size: 25px;
+}
+
+footer {
+    border: 1px solid #ffa43a;
+    background-color: #ffa43a;
+    margin-top: 50px;
+}
+
+header {
+    border: 1px solid #ffa43a;
+    background-color: #ffa43a;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.cat:hover {
+    position: relative;
+    transform: scale(1.15);
+    transition: 1s;
+    box-shadow: 2px 0 5px 10px blueviolet;
+}
+
+.parrot:hover {
+    position: relative;
+    transform: scale(1.15);
+    transition: 1s;
+    box-shadow: 2px 0 5px 10px blueviolet;
+}
+
+.dog:hover {
+    position: relative;
+    transform: scale(1.15);
+    transition: 1s;
+    box-shadow: 2px 0 5px 10px blueviolet;
+}
+
+.cat {
+    background-color: blue;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    transform: scale(1);
+    transition: 1s;
+}
+
+.parrot {
+    background-color: blue;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    transform: scale(1);
+    transition: 1s;
+}
+
+.dog {
+    background-color: blue;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    transform: scale(1);
+    transition: 1s;
+}
+
+a h2:hover {
+    color: blueviolet;
+    transform: scale(1.5);
+    transition: 1s;
+}
+
+a h2 {
+    color: black;
+    transform: scale(1);
+    transition: 1s;
+}
+
+nav a:hover {
+    color: blueviolet;
+    transition: 0.5s;
+}
+
+nav a {
+    color: black;
+    transition: 0.5s;
+}
